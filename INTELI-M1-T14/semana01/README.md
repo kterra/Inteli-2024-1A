@@ -24,3 +24,6 @@ Introdução a tecnologias e conceitos importantes no contexto de desenvolviment
 
 ## Exercício em sala de aula
 Acesse o g1.com, utilize a ferramenta inspecionar para analisar o código-fonte e edite uma notícia.
+
+# Atividades ponderada da semana
+- Projeto individual 1
