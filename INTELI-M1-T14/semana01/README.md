@@ -10,11 +10,11 @@ Introdução a tecnologias e conceitos importantes no contexto de desenvolviment
 - Lógica algorítmica
 
 ### Bibliografia
-- Javascript e Orientação a Objetos: Capítulos 6 e 9 do livro "JavaScript: o guia definitivo". Dentre os conteúdos, você verá conceitos de programação orientada a objetos aplicadas a Javascript. (FLANAGAN, David. JavaScript: o guia definitivo. 2013. E-book. ISBN 9788565837484. Disponível em: (https://integrada.minhabiblioteca.com.br/#/books/9788565837484/)
-- Modelagem Conceitual: Orientação a objetos: Seções 6.1 a 6.5 do livro WAZLAWICK, Raul S. Análise e Design Orientados a Objetos para Sistemas de Informação: Modelagem com UML, OCL e IFML. Grupo GEN, 2014. E-book. ISBN 9788595153653. Disponível em: (https://integrada.minhabiblioteca.com.br/#/books/9788595153653/)
-
+- Tipos de dados em Javascript: (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
+- Sintaxe e tipos: (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
+- 
 ## Slides da aula
-[Acesse aqui(apenas com email do Inteli)](https://drive.google.com/file/d/18_jEKqAMlxOXfKUtzDWb9USXUcx48lO5/view?usp=drive_link)
+[Acesse aqui (apenas com email do Inteli)](https://drive.google.com/file/d/18_jEKqAMlxOXfKUtzDWb9USXUcx48lO5/view?usp=drive_link)
 
 ### Assuntos abordados
 - Experimentando Javascript no navegador
