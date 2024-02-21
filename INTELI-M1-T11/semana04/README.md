@@ -6,6 +6,7 @@
 Criação de diferentes classes e interações entre elas com o Phaser. Adicionalmente, elaboração de "casos de teste" para testagem sistemática e a importância da documentação de testes para o crescimento sustentável de projetos.
 
 ### Assuntos relacionados
+- Programação orientada a objetos
 - Casos de teste
 - Projeto e arquitetura de sistemas
 
