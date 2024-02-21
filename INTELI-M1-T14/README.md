@@ -1,3 +1,3 @@
 # Turma 14
 
-Consulte os diretórios correspondentes a cada semana.
+Consulte os diretórios de cada semana.
