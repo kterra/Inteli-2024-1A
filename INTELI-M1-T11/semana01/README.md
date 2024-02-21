@@ -10,8 +10,8 @@ Introdução a tecnologias e conceitos importantes no contexto de desenvolviment
 - Lógica algorítmica
 
 ### Bibliografia
-- Tipos de dados em Javascript: (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
-- Sintaxe e tipos: (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
+- [Tipos de dados em Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
+- [Sintaxe e tipos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
 
 ## Slides da aula
 [Acesse aqui (apenas com email do Inteli)](https://drive.google.com/file/d/1lRcmLz9GBUpwlKPWRtmc8FAx2tQLcQ4y/view?usp=drive_link)
