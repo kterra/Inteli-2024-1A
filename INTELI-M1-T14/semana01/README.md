@@ -6,8 +6,8 @@
 Introdução a tecnologias e conceitos importantes no contexto de desenvolvimento web: arquitetura cliente-servidor e o papel de html, css e js. Em especial, como construir uma sequência de instruções, utilizando variáveis e testes lógicos, em js e como utilizar o console do navegador para verificar resultados. A ideia principal do encontro é testar o ambiente de desenvolvimento (Visual Studio), a execução de códigos em JS e o framework de desenvolvimento de jogos (Phaser) que serão utilizados durante o módulo.
 
 ### Assuntos relacionados
--Algoritmos para a solução de problemas de baixa complexidade
--Lógica algorítmica
+- Algoritmos para a solução de problemas de baixa complexidade
+- Lógica algorítmica
 
 ### Bibliografia
 - Javascript e Orientação a Objetos: Capítulos 6 e 9 do livro "JavaScript: o guia definitivo". Dentre os conteúdos, você verá conceitos de programação orientada a objetos aplicadas a Javascript. (FLANAGAN, David. JavaScript: o guia definitivo. 2013. E-book. ISBN 9788565837484. Disponível em: (https://integrada.minhabiblioteca.com.br/#/books/9788565837484/)
