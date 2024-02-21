@@ -1,3 +1,5 @@
+//Variáveis na prática
+
 let gaveta_1 = 3;
 let gaveta_9 = 3 + 9;
 

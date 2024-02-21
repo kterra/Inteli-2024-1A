@@ -1,5 +1,4 @@
-
-
+//Praticando escopo de variáveis let e var
 console.log('for')
 for (let cont = 0; cont > -10; cont = cont - 1 ){
     console.log(cont)
