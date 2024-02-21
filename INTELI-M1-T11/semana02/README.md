@@ -8,7 +8,7 @@ Foco em lógica de programação, especialmente em aplicação de operações l�
 ### Assuntos relacionados
 - Algoritmos para a solução de problemas de baixa complexidade
 
-### Bibliografia
+### Referências Bibliográficas
 - [Estruturas condicionais](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals#instru%C3%A7%C3%B5es_switch%22)
 - [Estruturas de repetição](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
