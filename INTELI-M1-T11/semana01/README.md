@@ -9,7 +9,7 @@ Introdução a tecnologias e conceitos importantes no contexto de desenvolviment
 - Algoritmos para a solução de problemas de baixa complexidade
 - Lógica algorítmica
 
-### Referências Bibliográficas
+### Referências bibliográficas
 - [Tipos de dados em Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
 - [Sintaxe e tipos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types)
 
