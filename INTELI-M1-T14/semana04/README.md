@@ -25,5 +25,5 @@ Criação de diferentes classes e interações entre elas com o Phaser. Adiciona
 
 ## Exercício
 
-## Testes
+# Atividades ponderadas da semana
 
