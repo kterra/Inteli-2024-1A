@@ -14,7 +14,7 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 
 ### Quizz com Kahoot
 - Revisão: Variável, Função, If-Else
-- Conteúdos novo: POO, Classe, Constructor, Método, Propriedade
+- Conteúdos novo: POO, Classe, Constructor, Método
 
 ## Fundamentos conceituais de POO com Phaser
 - Leitura do código de um jogo multi-cena que usa POO: [Exercício do Dragão](https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao)
