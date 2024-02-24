@@ -35,8 +35,8 @@ Obs.: Correção feita em sala de aula.
 
 ### Para ir além
 1. Crie a classe Personagem
-  - Defina propriedades do Personagem
-  - Defina pelo dois métodos para sua classe
+    - Defina propriedades do Personagem
+    - Defina pelo dois métodos para sua classe
 2. Crie uma nova classe 'herdeira' da classe Personagem
 
 
