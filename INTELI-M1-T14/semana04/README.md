@@ -33,8 +33,16 @@ Acesse [aqui]().
 
 Obs.: Correção feita em sala de aula.
 
+### Para ir além
+1. Crie a classe Personagem
+  - Defina propriedades do Personagem
+  - Defina pelo dois métodos para sua classe
+2. Crie uma nova classe 'herdeira' da classe Personagem
+
+
 ## Atividade ponderada da semana
 [Semana 4: Entrega do Projeto Individual](https://github.com/InteliContent/M1/blob/main/Semana_04/tutorial/Semana_04.md)
+
 
 ## Bibliografia complementar
 - [Javascript e Orientação a Objetos](https://integrada.minhabiblioteca.com.br/#/books/9788565837484/)
