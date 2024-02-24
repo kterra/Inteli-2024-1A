@@ -41,7 +41,7 @@ Obs.: Correção feita em sala de aula.
 1.  Agora, crie um método para adicionar uma imagem e em uma posição diferente da tela toda vez que a tecla A for pressionada.
 
 Ou ainda,
-1.  Crie a classe Personagem
+1.  Crie uma classe Personagem
     - Defina propriedades do Personagem
     - Defina pelo dois métodos para sua classe. Por exemplo: moverEsquerda() e mover Diretita()
 2. Utilize um objeto desta classe no seu jogo.
