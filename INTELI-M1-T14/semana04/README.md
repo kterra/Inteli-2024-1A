@@ -1,9 +1,9 @@
 # Encontro de Instrução
 
-## Classes, Herança, estruturas de dados e a importância dos testes
+## Classes, Herança, estruturas de dados
 
 ### Descrição
-Criação de diferentes classes e interações entre elas com o Phaser. Adicionalmente, elaboração de "casos de teste" para testagem sistemática e a importância da documentação de testes para o crescimento sustentável de projetos.
+Criação de diferentes classes e interações entre elas com o Phaser.
 
 ### Assuntos relacionados
 - Programação orientada a objetos
