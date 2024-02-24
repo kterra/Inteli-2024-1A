@@ -15,12 +15,12 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 ### Quizz com Kahoot
 Acesse [aqui]().
 - Revisão: Variável, Função, If-Else
-- Conteúdos novo: POO, Classe
+- Conteúdos novo: POO, Classe, Constructor, Método, Propriedade
 
 ## Fundamentos conceituais de POO com Phaser
 - Leitura do código de um jogo multi-cena que usa POO
 - Identificar:
-  - Classe
+  - Classe (tem construtor?)
   - Objeto
   - Propriedades
   - Métodos
