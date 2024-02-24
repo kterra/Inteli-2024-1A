@@ -1,4 +1,5 @@
 # Encontro de Instrução
+Slides do encontro [aqui]().
 
 ## Classes, Herança, estruturas de dados
 
