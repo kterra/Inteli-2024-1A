@@ -21,7 +21,7 @@ Criação de diferentes classes e interações entre elas com o Phaser. Adiciona
 
 ## Verificação de autoestudo
 
-### Quizz - O que este código faz?
+### Quizz - O que este código faz? (Kahoot)
 - Variável
 - Função
 - Classe
