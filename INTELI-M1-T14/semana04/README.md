@@ -31,9 +31,10 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 
 
 ### Exercício do Dragão
-1. Adicione uma terceira cena no exercício do Dragão
-2. A cena deve ter cor de fundo vermelha #FF0000
-3. Crie um método para adicionar uma imagem e em uma posição diferente da tela toda vez que a tecla A for pressionada.
+1. Adicione uma terceira cena no exercício do Dragão.
+2. A cena deve ter cor de fundo vermelha #FF0000.
+3. Adicione  uma imagem na tela.
+4. Agora, crie um método para adicionar uma imagem e em uma posição diferente da tela toda vez que a tecla A for pressionada.
 
 Obs.: Correção feita em sala de aula.
 
