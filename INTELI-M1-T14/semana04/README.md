@@ -38,8 +38,8 @@ Criação de diferentes classes e interações entre elas com o Phaser. Adiciona
 - Lendo o código de um jogo multi-cena que usa POO
 
 ## Prática assistida
-1. Faça fork do repositório de exercício
-2. Em seguida clone o repositório para sua máquina
+1. Faça **fork** do repositório de exercício: https://github.com/kterra/2024-1A-exercicio-poo
+2. Em seguida, **clone** o repositório para sua máquina.
 3. Siga as instruções do exercício.
 
 Obs.: Correção feita em sala de aula.
