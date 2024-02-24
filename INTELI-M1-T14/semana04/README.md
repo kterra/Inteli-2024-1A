@@ -17,7 +17,7 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 - Conteúdos novo: POO, Classe, Constructor, Método, Propriedade
 
 ## Fundamentos conceituais de POO com Phaser
-- Leitura do código de um jogo multi-cena que usa POO
+- Leitura do código de um jogo multi-cena que usa POO: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
 - Identificar:
   - Classe (tem construtor?)
   - Objeto
@@ -28,15 +28,20 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 ## Prática assistida
 1. Faça **fork** do repositório de exercício: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
 2. Em seguida, **clone** o repositório para sua máquina.
-3. Siga as instruções do exercício.
+
+
+### Exercício do Dragão
+1. Adicione uma terceira cena no exercício do Dragão
+2. A cena deve ter cor de fundo vermelha #FF0000
+3. Crie um método para adicionar uma imagem e em uma posição diferente da tela toda vez que a tecla A for pressionada.
 
 Obs.: Correção feita em sala de aula.
 
 ### Para ir além
 1. Crie a classe Personagem
     - Defina propriedades do Personagem
-    - Defina pelo dois métodos para sua classe
-2. Crie uma nova classe 'herdeira' da classe Personagem
+    - Defina pelo dois métodos para sua classe. Por exemplo: moverEsquerda() e mover Diretita()
+2. Utilize um objeto desta classe no seu jogo.
 
 
 ## Atividade ponderada da semana
