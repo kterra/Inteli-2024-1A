@@ -21,9 +21,33 @@ Criação de diferentes classes e interações entre elas com o Phaser. Adiciona
 
 ## Verificação de autoestudo
 
+### Quizz - O que este código faz?
+- Variável
+- Função
+- Classe
+- Objeto
+
+### Fundamentos conceituais de POO
+- Classe
+- Objeto
+- Propriedades
+- Métodos
+- Herança
+
 ## POO + Phaser
+- Lendo o código de um jogo multi-cena que usa POO
 
-## Exercício
+## Prática assistida
+1. Crie uma nova cena
+2. Crie um novo personagem
 
-# Atividades ponderadas da semana
+### Correção
 
+## Para ir além - Atividade prática
+1. Crie a classe Personagem
+  - Defina propriedades do Personagem
+  - Defina pelo dois métodos para sua classe
+2. Crie uma nova classe 'herdeira' da classe Personagem
+
+# Atividade ponderada da semana
+[Semana 4: Entrega do Projeto Individual](https://github.com/InteliContent/M1/blob/main/Semana_04/tutorial/Semana_04.md)
