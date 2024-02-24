@@ -38,16 +38,11 @@ Criação de diferentes classes e interações entre elas com o Phaser. Adiciona
 - Lendo o código de um jogo multi-cena que usa POO
 
 ## Prática assistida
-1. Crie uma nova cena
-2. Crie um novo personagem
+1. Faça fork do repositório de exercício
+2. Em seguida clone o repositório para sua máquina
+3. Siga as instruções do exercício.
 
-### Correção
-
-## Para ir além - Atividade prática
-1. Crie a classe Personagem
-  - Defina propriedades do Personagem
-  - Defina pelo dois métodos para sua classe
-2. Crie uma nova classe 'herdeira' da classe Personagem
+Obs.: Correção feita em sala de aula.
 
 # Atividade ponderada da semana
 [Semana 4: Entrega do Projeto Individual](https://github.com/InteliContent/M1/blob/main/Semana_04/tutorial/Semana_04.md)
