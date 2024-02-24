@@ -19,7 +19,7 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 ## Fundamentos conceituais de POO com Phaser
 - Leitura do código de um jogo multi-cena que usa POO: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
 - Identificar:
-  - Classe (tem construtor?)
+  - Classe
   - Objeto
   - Propriedades
   - Métodos
