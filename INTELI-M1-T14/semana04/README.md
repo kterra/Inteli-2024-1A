@@ -15,7 +15,7 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 
 ### Quizz com Kahoot
 - Revisão: Variável, Função, If-Else
-- Conteúdos novo: POO, Classe, Constructor, Método
+- Conteúdos novo: POO, Classe, Construtor, Método
 
 ## Fundamentos conceituais de POO com Phaser
 - Leitura do código de um jogo multi-cena que usa POO: [Exercício do Dragão](https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao)
@@ -27,8 +27,8 @@ Criação de diferentes classes e interações entre elas com o Phaser.
   - Herança
 
 ## Prática assistida
-1. Faça **fork** do repositório de exercício: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
-2. Em seguida, **clone** o repositório para sua máquina.
+1. Faça [**fork**](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório de exercício: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
+2. Em seguida, [**clone**](https://github.com/git-guides/git-clone) o repositório para sua máquina.
 
 
 ### Exercício do Dragão
