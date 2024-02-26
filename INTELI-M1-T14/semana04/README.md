@@ -1,4 +1,5 @@
 # Encontro de Instrução
+Slides do encontro [aqui]().
 
 ## Classes, Herança, estruturas de dados
 
@@ -14,29 +15,37 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 
 ### Quizz com Kahoot
 - Revisão: Variável, Função, If-Else
-- Conteúdos novo: POO, Classe, Constructor, Método, Propriedade
+- Conteúdos novo: POO, Classe, Construtor, Método
 
 ## Fundamentos conceituais de POO com Phaser
-- Leitura do código de um jogo multi-cena que usa POO
+- Leitura do código de um jogo multi-cena que usa POO: [Exercício do Dragão](https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao)
 - Identificar:
-  - Classe (tem construtor?)
+  - Classe
   - Objeto
   - Propriedades
   - Métodos
   - Herança
 
 ## Prática assistida
-1. Faça **fork** do repositório de exercício: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
-2. Em seguida, **clone** o repositório para sua máquina.
-3. Siga as instruções do exercício.
+1. Faça [**fork**](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório de exercício: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
+2. Em seguida, [**clone**](https://github.com/git-guides/git-clone) o repositório para sua máquina.
+
+
+### Exercício do Dragão
+1. Adicione uma terceira cena no exercício do Dragão.
+2. A cena deve ter cor de fundo vermelha #FF0000.
+3. Adicione  uma imagem na tela.
 
 Obs.: Correção feita em sala de aula.
 
 ### Para ir além
-1. Crie a classe Personagem
+1.  Agora, crie um método para adicionar uma imagem e em uma posição diferente da tela toda vez que a tecla A for pressionada.
+
+Ou ainda,
+1.  Crie uma classe Personagem
     - Defina propriedades do Personagem
-    - Defina pelo dois métodos para sua classe
-2. Crie uma nova classe 'herdeira' da classe Personagem
+    - Defina pelo dois métodos para sua classe. Por exemplo: moverEsquerda() e mover Diretita()
+2. Utilize um objeto desta classe no seu jogo.
 
 
 ## Atividade ponderada da semana

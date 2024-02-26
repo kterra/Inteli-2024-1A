@@ -13,8 +13,8 @@
 - _**Fundamentos de computação:** Funções e listas_
 ### Semana 4
 - **Estratégias e Estruturas Classes**, Herança, estruturas de dados e a importância dos testes
-- Gerenciando Cenas e Recursos Phaser com múltiplas cenas e testes
-- _**Fundamentos de computação:** Programação orientada a objetos e Testes_
+- Gerenciando Cenas e Recursos Phaser com múltiplas cenas
+- _**Fundamentos de computação:** Programação orientada a objetos
 ### Semana 5
 - **Tipos de entrada com Phaser** Controles, entradas e adaptações. Phaser para mobile
 - Lista de exercícios de lógica de programação
