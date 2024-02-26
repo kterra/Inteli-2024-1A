@@ -14,6 +14,7 @@ class Produto {
 }
 
 var meuTenis = new Produto(1000, 'Esportes','Nike Pegasus', 899);
+
 meuTenis.verModelo()
 
 
