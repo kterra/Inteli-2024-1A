@@ -1,5 +1,5 @@
 # Encontro de Instrução
-Slides do encontro [aqui]().
+Slides do encontro [aqui](https://docs.google.com/presentation/d/1Nffmarnw8kTqZcVovmOHo8qZ6F0hGlI55QZOkXWEG5c/edit?usp=sharing).
 
 ## Classes, Herança, estruturas de dados
 
@@ -15,38 +15,24 @@ Criação de diferentes classes e interações entre elas com o Phaser.
 
 ### Quizz com Kahoot
 - Revisão: Variável, Função, If-Else
-- Conteúdos novo: POO, Classe, Construtor, Método
+- POO, Classe, Construtor, Método
 
-## Fundamentos conceituais de POO com Phaser
-- Leitura do código de um jogo multi-cena que usa POO: [Exercício do Dragão](https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao)
-- Identificar:
-  - Classe
-  - Objeto
-  - Propriedades
-  - Métodos
-  - Herança
+## Fundamentos POO
+- Conceitos e aplicação em JS: Classe, Objeto, Método, Propriedade
+- Pilares de POO: abstração, herança, polimorfismo
+
+## Modelagem conceitual na prática
+- Modelagem de cartas
 
 ## Prática assistida
-1. Faça [**fork**](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) do repositório de exercício: https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao
-2. Em seguida, [**clone**](https://github.com/git-guides/git-clone) o repositório para sua máquina.
+- Implemente a classe Carta com propriedades e métodos modelados
+- **Para ir além:** Implemente a versão com herança (Carta, CartaBaralho, CartaUno)
 
-
-### Exercício do Dragão
-1. Adicione uma terceira cena no exercício do Dragão.
-2. A cena deve ter cor de fundo vermelha #FF0000.
-3. Adicione  uma imagem na tela.
-
-Obs.: Correção feita em sala de aula.
-
-### Para ir além
-1.  Agora, crie um método para adicionar uma imagem e em uma posição diferente da tela toda vez que a tecla A for pressionada.
-
-Ou ainda,
-1.  Crie uma classe Personagem
-    - Defina propriedades do Personagem
-    - Defina pelo dois métodos para sua classe. Por exemplo: moverEsquerda() e mover Diretita()
-2. Utilize um objeto desta classe no seu jogo.
-
+## Aplicação: POO + Phaser
+- Leitura do código de um jogo multi-cena que usa POO:
+  - [Exercício do Dragão](https://github.com/InteliContent/M1-EX/tree/main/exercicio_dragao)
+  - [Phaser.Scene](https://github.com/phaserjs/phaser/blob/v3.51.0/src/scene/Scene.js)
+- Identificar: classe, objeto, propriedades, métodos, herança
 
 ## Atividade ponderada da semana
 [Semana 4: Entrega do Projeto Individual](https://github.com/InteliContent/M1/blob/main/Semana_04/tutorial/Semana_04.md)
