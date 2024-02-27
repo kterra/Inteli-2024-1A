@@ -1,5 +1,5 @@
 # Encontro de Instrução
-Slides do encontro [aqui](https://drive.google.com/file/d/1kFSO56ySQ6F2GX5kUdnqdKFCuQ9PvbCR/view?usp=drive_link).
+Slides do encontro [aqui](https://drive.google.com/file/d/1kFSO56ySQ6F2GX5kUdnqdKFCuQ9PvbCR/view?usp=drive_link)
 
 ## Classes, Herança, estruturas de dados
 
