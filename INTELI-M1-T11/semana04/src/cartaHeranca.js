@@ -20,6 +20,7 @@ class Carta{
 
 class CartaBaralho extends Carta{
     static naipes = ['♣ - Paus', '♠ - Espadas', '♥ - Copas', ' ♦ - Ouros'];
+    
     constructor(codigoNaipe, valor, posicao){
         super(valor, posicao);
         this.naipe = CartaBaralho.naipes[codigoNaipe];
