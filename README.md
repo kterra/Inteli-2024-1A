@@ -38,3 +38,4 @@
 ## Orientações e códigos das aulas da Prof Kizzy Terra
 1. [Turma 11](https://github.com/kterra/Inteli-20241A-Workspace-Aulas/tree/main/INTELI-M1-T11)
 2. [Turma 14](https://github.com/kterra/Inteli-20241A-Workspace-Aulas/tree/main/INTELI-M1-T14)
+3. [Exemplos](https://github.com/kterra/Inteli-20241A-Workspace-Aulas/tree/main/EXEMPLOS)
