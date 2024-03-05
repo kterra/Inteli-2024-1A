@@ -40,7 +40,7 @@ function create() {
     }
 
 
-    game.scale.on('orientationchange', function(orientation) {
+    this.scale.on('orientationchange', function(orientation) {
         if (orientation === Phaser.Scale.PORTRAIT) {
             this.add.image(400, 300, 'mar');
         } else if (orientation === Phaser.Scale.LANDSCAPE) {
