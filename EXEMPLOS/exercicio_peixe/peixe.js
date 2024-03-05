@@ -30,17 +30,13 @@ function preload() {
 function create() {
     
     this.add.image(400, 525, 'logo').setScale(0.5);
-    if (game.device.os.windows){
+    if (game.device.os.desktop){
+        this.add.image(400, 300, 'mar');
         peixinho = this.add.image(400, 300, 'peixe-azul');
-    }
-
-    if (game.device.os.android){
+    } else if(game.device.os.android){
         peixinho = this.add.image(400, 300, 'peixe-laranja');
     }
 
-    if(game.device.os.desktop){
-        this.add.image(400, 300, 'mar');
-    }
 
     game.scale.on('orientationchange', function(orientation) {
         if (orientation === Phaser.Scale.PORTRAIT) {
