@@ -12,11 +12,10 @@ Controles, entradas e adaptações. Phaser para mobile.
 - Estruturas de controle e de repetição
 
 
-## Verificação de autoestudo
-
-### Quizz com Kahoot
+## Revisão e Verificação de autoestudo
 - Revisão: POO
 - Tipos de entrada no Phaser
+- Responsividade com Phaser
 
 ## Entrada e Saída de Dados
 - Conceito de entrada e saída de dados
@@ -25,13 +24,26 @@ Controles, entradas e adaptações. Phaser para mobile.
 
 ## Tipos de Entrada com Phaser
 - Discussão de exemplos
-  - Mouse e teclado 
+1. Touch (Pointer, Dragging, Multitouch, Zones)
+2. Mouse (Mouse Wheel)
+3. Gamepad
+4. Keyboard
 
-## Phaser para Mobile
+
+## Responsividade com Phaser
 - Conceito de responsividade
-- Recursos Phaser para implementar responsividade: _scale.mode_, _scale.autoCenter_
+- Recursos Phaser para implementar responsividade: _scale.mode_, _scale.autoCenter_, orientation etc.
 - Como implementar na prática?
   - Exemplo: Adaptando o exerício do peixe (semana 1)
+
+### Exerício
+Implemente pelo menos um tipo de responsividade no seu jogo (entrega da semana 4). Exemplos: Scale.Mode, Device,Orientation
+
+### Phaser Mobile
+1. Opção 1: Definir width e  height considerando um dispositivo principal e usar ScaleManager para adaptar tela.
+
+2. Opção 2: Utilizar a câmera/zoom para implementar a responsividade para o dispositivo
+
 
 ## Prática assistida
 - Implemente responsividade no seu jogo (entrega da semana 4)
