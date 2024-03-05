@@ -26,10 +26,10 @@ Controles, entradas e adaptações. Phaser para mobile.
 ## Tipos de Entrada com Phaser
 - Discussão de exemplos
   - Mouse e teclado 
-c
+
 ## Phaser para Mobile
 - Conceito de responsividade
-- Recusros Phaser para implementar responsividade
+- Recursos Phaser para implementar responsividade: _scale.mode_, _scale.autoCenter_
 - Como implementar na prática?
   - Exemplo: Adaptando o exerício do peixe (semana 1)
 
