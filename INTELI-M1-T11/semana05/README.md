@@ -26,7 +26,7 @@ Controles, entradas e adaptações. Phaser para mobile.
 ## Tipos de Entrada com Phaser
 - Discussão de exemplos
   - Mouse e teclado 
-
+c
 ## Phaser para Mobile
 - Conceito de responsividade
 - Recusros Phaser para implementar responsividade
@@ -37,7 +37,8 @@ Controles, entradas e adaptações. Phaser para mobile.
 - Implemente responsividade no seu jogo (entrega da semana 4)
 
 ## Atividade ponderada da semana
-[Semana 5: Exercícios](https://github.com/InteliContent/M1/tree/main/Semana_05/Exercicios)
+- [Semana 5: Exercícios](https://github.com/InteliContent/M1/tree/main/Semana_05/Exercicios)
+- **Prazo:** Domingo, 09/03, 23:59
 
 
 ## Bibliografia complementar
