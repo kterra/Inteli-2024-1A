@@ -40,15 +40,10 @@ function create() {
     }
 
 
-    this.scale.on('orientationchange', function(orientation) {
-        if (orientation === Phaser.Scale.PORTRAIT) {
+
+        if(game.scale.orientation === Phaser.Scale.LANDSCAPE){
             this.add.image(400, 300, 'mar');
-        } else if (orientation === Phaser.Scale.LANDSCAPE) {
-            this.add.image(400, 300, 'mar-claro');
         }
-    });
-    
-    
     
 
 }
@@ -57,5 +52,7 @@ function update() {
 
     peixinho.x = this.input.x;
     peixinho.y = this.input.y;
+
+ 
 
 }
