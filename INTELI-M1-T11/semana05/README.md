@@ -18,18 +18,24 @@ Controles, entradas e adaptações. Phaser para mobile.
 - Revisão: POO
 - Tipos de entrada no Phaser
 
-## Fundamentos POO
-- Conceitos e aplicação em JS: Classe, Objeto, Método, Propriedade
-- Pilares de POO: abstração, herança, polimorfismo
+## Entrada e Saída de Dados
+- Conceito de entrada e saída de dados
+- Discussão de exemplos de entrada e saída:
+  - Computador
+  - Smartphone
+  - Função JS 
+
+## Tipos de Entrada com Phaser
+- Discussão de exemplos
 
 ## Phaser para Mobile
-- O que é responsividade?
-- Como implementar?
+- Conceito de responsividade
+- Recusros Phaser para implementar responsividade
+- Como implementar na prática?
+  - Exemplo: Adaptando o exerício do peixe (semana 1)
 
 ## Prática assistida
-- Parte 1: 
-- Parte 2: Utilize o código da aula anterior do Prof. Godoi e aplique a responsividade nele.
-- **Para ir além:** 
+- Implemente responsividade no seu jogo (entrega da semana 4)
 
 ## Atividade ponderada da semana
 [Semana 5: Exercícios](https://github.com/InteliContent/M1/tree/main/Semana_05/Exercicios)
