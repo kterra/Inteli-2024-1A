@@ -20,13 +20,12 @@ Controles, entradas e adaptações. Phaser para mobile.
 
 ## Entrada e Saída de Dados
 - Conceito de entrada e saída de dados
-- Discussão de exemplos de entrada e saída:
-  - Computador
-  - Smartphone
-  - Função JS 
+- Exemplos de entrada e saída JavasCript
+- Tipos de entrada no Computador e Smartphone
 
 ## Tipos de Entrada com Phaser
 - Discussão de exemplos
+  - Mouse e teclado 
 
 ## Phaser para Mobile
 - Conceito de responsividade
