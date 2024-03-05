@@ -37,8 +37,8 @@
 
 ## Orientações e códigos das aulas da Prof Kizzy Terra
 [Página Inicial](https://kterra.github.io/Inteli-2024-1A/)
-1. [Turma 11](https://github.com/kterra/Inteli-20241A-Workspace-Aulas/tree/main/INTELI-M1-T11)
-2. [Turma 14](https://github.com/kterra/Inteli-20241A-Workspace-Aulas/tree/main/INTELI-M1-T14)
+1. [Turma 11](https://kterra.github.io/Inteli-2024-1A/INTELI-M1-T11)
+2. [Turma 14](https://kterra.github.io/Inteli-2024-1A/INTELI-M1-T14)
 3. [Exemplos](https://github.com/kterra/Inteli-20241A-Workspace-Aulas/tree/main/EXEMPLOS)
 4. Demos:
     1. [Peixe jogável](https://kterra.github.io/Inteli-2024-1A/EXEMPLOS/exercicio_peixe/index.html)
