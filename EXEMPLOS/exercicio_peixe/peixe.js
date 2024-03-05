@@ -3,7 +3,7 @@ var config = {
     width: 800,
     height: 600,
     scale: {
-       //mode: Phaser.Scale.NONE,
+       //mode: Phaser.Scale.FIT,
         //autoCenter: Phaser.Scale.CENTER_BOTH
     },
 
@@ -30,10 +30,11 @@ function preload() {
 function create() {
     
     this.add.image(400, 525, 'logo').setScale(0.5);
+    
     if (game.device.os.desktop){
         this.add.image(400, 300, 'mar');
         peixinho = this.add.image(400, 300, 'peixe-azul');
-    } else if(game.device.os.android){
+    } else{
         peixinho = this.add.image(400, 300, 'peixe-laranja');
     }
 
