@@ -20,17 +20,16 @@ Controles, entradas e adaptações. Phaser para mobile.
 
 ## Entrada e Saída de Dados
 - Conceito de entrada e saída de dados
-- Discussão de exemplos de entrada e saída:
-  - Computador
-  - Smartphone
-  - Função JS 
+- Exemplos de entrada e saída JavasCript
+- Tipos de entrada no Computador e Smartphone
 
 ## Tipos de Entrada com Phaser
 - Discussão de exemplos
+  - Mouse e teclado 
 
 ## Phaser para Mobile
 - Conceito de responsividade
-- Recusros Phaser para implementar responsividade
+- Recursos Phaser para implementar responsividade: _scale.mode_, _scale.autoCenter_
 - Como implementar na prática?
   - Exemplo: Adaptando o exerício do peixe (semana 1)
 
@@ -38,7 +37,8 @@ Controles, entradas e adaptações. Phaser para mobile.
 - Implemente responsividade no seu jogo (entrega da semana 4)
 
 ## Atividade ponderada da semana
-[Semana 5: Exercícios](https://github.com/InteliContent/M1/tree/main/Semana_05/Exercicios)
+- [Semana 5: Exercícios](https://github.com/InteliContent/M1/tree/main/Semana_05/Exercicios)
+- **Prazo:** Domingo, 09/03, 23:59
 
 
 ## Bibliografia complementar
