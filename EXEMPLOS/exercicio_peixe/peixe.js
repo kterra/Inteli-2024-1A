@@ -3,8 +3,8 @@ var config = {
     width: 800,
     height: 600,
     scale: {
-       //mode: Phaser.Scale.FIT,
-        //autoCenter: Phaser.Scale.CENTER_BOTH
+       mode: Phaser.Scale.FIT,
+       autoCenter: Phaser.Scale.CENTER_BOTH
     },
 
     scene: {
@@ -35,6 +35,7 @@ function create() {
         this.add.image(400, 300, 'mar');
         peixinho = this.add.image(400, 300, 'peixe-azul');
     } else{
+        this.add.image(400, 300, 'mar-claro');
         peixinho = this.add.image(400, 300, 'peixe-laranja');
     }
 
