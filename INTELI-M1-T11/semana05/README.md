@@ -1,5 +1,5 @@
 # Encontro de Instrução
-Slides do encontro [aqui]()
+Slides do encontro [aqui](https://docs.google.com/presentation/d/17PjlV01OmYr6470pGDUrm-RzwhX-BCpEB4doDFzAsHI/edit?usp=sharing)
 
 ## Diferentes tipos de entrada com Phaser
 

@@ -26,6 +26,11 @@ class SUV extends Carro{
         this.velocidadeAtual += 2*velocidade;
         console.log('SUV acelerou: '+ this.velocidadeAtual)
     }
+
+    parar(){
+        this.velocidadeAtual = 0;
+        console.log('SUV parou.')
+    }
 }
 
 //Cria um novo carro, acelerar e frear ele
@@ -36,4 +41,4 @@ carro.frear(1)
 
 //Criar uma nova SUV e acelera
 let carroForte = new SUV()
-carroForte.acelerar(5)
+carroForte.parar()
