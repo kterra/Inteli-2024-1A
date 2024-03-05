@@ -40,13 +40,13 @@ function create() {
     }
 
 
-    this.scale.on('orientationchange', function(orientation) {
+    /*this.scale.on('orientationchange', function(orientation) {
         if (orientation === Phaser.Scale.PORTRAIT) {
             this.add.image(400, 300, 'mar');
         } else if (orientation === Phaser.Scale.LANDSCAPE) {
             this.add.image(400, 300, 'mar-claro');
         }
-    });
+    });*/
     
     
     
