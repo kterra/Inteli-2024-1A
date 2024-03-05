@@ -30,20 +30,23 @@ function preload() {
 function create() {
     
     this.add.image(400, 525, 'logo').setScale(0.5);
+
+    if(game.scale.orientation === Phaser.Scale.LANDSCAPE){
+        this.add.image(400, 300, 'mar');
+    } else if(game.scale.orientation === Phaser.Scale.PORTRAIT){
+        this.add.image(400, 300, 'mar-claro');
+    }
     
     if (game.device.os.desktop){
-        this.add.image(400, 300, 'mar');
         peixinho = this.add.image(400, 300, 'peixe-azul');
     } else{
-        this.add.image(400, 300, 'mar-claro');
+        
         peixinho = this.add.image(400, 300, 'peixe-laranja');
     }
 
 
 
-        if(game.scale.orientation === Phaser.Scale.LANDSCAPE){
-            this.add.image(400, 300, 'mar');
-        }
+      
     
 
 }
