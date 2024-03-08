@@ -37,7 +37,7 @@ Controles, entradas e adaptações. Phaser para mobile.
   - Exemplo: Adaptando o exerício do peixe (semana 1)
 
 ### Exerício
-Implemente pelo menos um tipo de responsividade no seu jogo (entrega da semana 4). Exemplos: Scale.Mode, Device,Orientation
+Implemente pelo menos um tipo de responsividade no seu jogo (sugestão: entrega da semana 4). Exemplos: Scale.Mode, Device,Orientation
 
 ### Phaser Mobile
 1. Opção 1: Definir width e  height considerando um dispositivo principal e usar ScaleManager para adaptar tela.
