@@ -1,16 +1,11 @@
 # Encontro de Instrução
 Slides do encontro [aqui]()
 
-## Diferentes tipos de entrada com Phaser
-
-### Descrição
-Controles, entradas e adaptações. Phaser para mobile.
+## Mecânicas do jogo e estruturas de dados
+Implementação de mecânicas de jogo que envolvem manipulação de estruturas de dados.
 
 ### Assuntos relacionados
-- Algoritmos para a solução de problemas de baixa complexidade
-- Entrada e saída de dados
-- Estruturas de controle e de repetição
-
+- Lógica algorítmica
 
 ## Revisão e Verificação de autoestudo
 
@@ -30,7 +25,7 @@ Controles, entradas e adaptações. Phaser para mobile.
 - Arrays em Javascript
     - características
     - Principais Operações
-- Operações em Arrays Javascript  - [Demonstração no VSCode](src/operacoesArrays.js)
+- Operações em Arrays Javascript  - [Demonstração no VSCode](https://github.com/kterra/Inteli-2024-1A/blob/main/INTELI-M1-T14/semana06/src/operacoesArrays.js)
 
 
 ### Exercício
