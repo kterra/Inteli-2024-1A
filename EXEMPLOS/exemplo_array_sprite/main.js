@@ -41,3 +41,5 @@ const config = {
 };
 
 const game = new Phaser.Game(config);
+
+//Código dispoível em: https://labs.phaser.io/edit.html?src=src\game%20objects\container\add%20array%20of%20sprites%20to%20container.js

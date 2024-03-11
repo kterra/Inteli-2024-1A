@@ -10,14 +10,15 @@ class Example extends Phaser.Scene
         //  Our container
         const container = this.add.container(400, 300);
         
+
         const sprites = []
         for(var i = -400; i<= 400; i+= 200){
-            for(var j = -200; j<=200; j += 200){
-                if ( (i + j) % 400 == 0 ){
-                    sprites.push(this.add.sprite(i, j, 'rick'))
-                }
-                
+            if (Math.abs(i) == 200){
+                sprites.push(this.add.sprite(i, 200, 'rick'))   
             }
+            if ( i % 400 == 0){
+                sprites.push(this.add.sprite(i, 0, 'rick'))
+            }   
         }
 
         container.add(sprites);
@@ -42,3 +43,5 @@ const config = {
 };
 
 const game = new Phaser.Game(config);
+
+//Referencia: https://labs.phaser.io/edit.html?src=src\game%20objects\container\add%20array%20of%20sprites%20to%20container.js

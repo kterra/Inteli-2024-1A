@@ -41,8 +41,8 @@ Maria foi ao mercado com sua lista de compras e precisa realizar operações com
 8. Por fim, Maria comprou todos os itens. Esvazie a lista.
 
 
-## Mecânicas de Jogo com Arrays
-- 
+## Arrays no contexto de um jogo com Phaser,js 
+- [Utilizando array para criar Sprites](https://github.com/kterra/Inteli-2024-1A/tree/main/EXEMPLOS/exemplo_array_sprite)
 
 
 ## Atividade ponderada da semana
