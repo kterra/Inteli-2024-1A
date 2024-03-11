@@ -44,7 +44,7 @@ console.log(`O número 1 está no array? ${existe}`)
 //Filtrar elementos do array com uma função temporária
 let filtrado = meuArray.filter(item => item > 3)
 console.log(`Elementos maiores que 3: ${filtrado}`)
-
+slice
 //Ordenar array 'inplace' 
 meuArray.sort()
 console.log('Array ordenado: ', meuArray)
@@ -59,7 +59,7 @@ meuArray[7] = 21
 console.log('Array com alteração e adição: ', meuArray)
 
 //Copiar array
-var meuArrayCopia = meuArray.slice(0,5)
+var meuArrayCopia = meuArray.slice(0, 5)
 console.log('Array fatiado: ', meuArrayCopia)
 
 //Limpar um array

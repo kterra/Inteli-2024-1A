@@ -12,11 +12,11 @@ class Example extends Phaser.Scene
         
 
         const sprites = []
-        for(var i = -400; i<= 400; i+= 200){
-            if (Math.abs(i) == 200){
-                sprites.push(this.add.sprite(i, 200, 'rick'))   
+        for(var i = -300; i<= 300; i+= 150){
+            if (Math.abs(i) == 150){
+                sprites.push(this.add.sprite(i, 150, 'rick'))   
             }
-            if ( i % 400 == 0){
+            if ( i % 300 == 0){
                 sprites.push(this.add.sprite(i, 0, 'rick'))
             }   
         }
