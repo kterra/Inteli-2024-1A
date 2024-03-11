@@ -36,7 +36,7 @@ Controles, entradas e adaptações. Phaser para mobile.
 - Como implementar na prática?
   - Exemplo: Adaptando o exerício do peixe (semana 1)
 
-### Exerício
+### Exercício
 Implemente pelo menos um tipo de responsividade no seu jogo (sugestão: entrega da semana 4). Exemplos: Scale.Mode, Device,Orientation
 
 ### Phaser Mobile
