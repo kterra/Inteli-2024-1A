@@ -1,5 +1,5 @@
 # Encontro de Instrução
-Slides do encontro [aqui]()
+Slides do encontro [aqui](https://drive.google.com/file/d/1QNUT4m2i039O61_HyOkk0LhllcPRtIeZ/view?usp=drive_link)
 
 ## Mecânicas do jogo e estruturas de dados
 Implementação de mecânicas de jogo que envolvem manipulação de estruturas de dados.
@@ -41,7 +41,7 @@ Maria foi ao mercado com sua lista de compras e precisa realizar operações com
 8. Por fim, Maria comprou todos os itens. Esvazie a lista.
 
 
-## Arrays no contexto de um jogo com Phaser,js 
+## Arrays no contexto de um jogo com Phaser.js 
 - [Utilizando array para criar Sprites](https://github.com/kterra/Inteli-2024-1A/tree/main/EXEMPLOS/exemplo_array_sprite)
 
 
