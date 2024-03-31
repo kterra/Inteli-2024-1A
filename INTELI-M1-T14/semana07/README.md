@@ -1,5 +1,5 @@
 # Encontro de Instrução
-Slides do encontro [aqui](https://drive.google.com/file/d/1z_kiOEwvUkkUlKmuh42_0xHm7yBg-ZvR/view?usp=drive_link)
+Slides do encontro [aqui](https://drive.google.com/file/d/1vypbq1wBI-Kt5HB52M3n2NB51TRBTHCm/view?usp=drive_link)
 
 ## Máquinas de estado e os estados no jogo
 Neste encontro você aprenderá sobre o conceito de máquinas de estados finitos, ou autômatos de estados finitos. Esse conceito é importante para controlar, por exemplo, diferentes comportamentos de um mesmo elemento de um jogo.
@@ -18,12 +18,14 @@ Neste encontro você aprenderá sobre o conceito de máquinas de estados finitos
 
 
 ## Máquinas de Estado em jogo Phaser.js 
+
 ### Exercício - Diagrama de Estados
 1. Escolha um objeto ou personagem do seu projeto
 2. Identifique os estados que este elemento pode assumir
 3. Identifique as transições entre estados
 4. Construa a máquina de estados com os estados e
 transições identificados
+
 
 ## Atividade ponderada da semana
 - [Lista de Exercícios](https://github.com/InteliContent/M1/blob/main/Semana_07/Exercicios/lista_02.md)
