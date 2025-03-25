@@ -4,16 +4,10 @@ var config = {
     height: 600,
 
     scale: {
-       mode: Phaser.Scale.FIT,
-       autoCenter: Phaser.Scale.CENTER_BOTH
-    },
-
-    scene: {
-        preload: preload,
-        create: create,
-        update: update
+      mode: Phaser.Scale.FIT,
+      autoCenter: Phaser.Scale.CENTER_BOTH
     }
-};
+}
 
 var game = new Phaser.Game(config);
 
@@ -70,3 +64,4 @@ function update() {
  
 
 }
+
